@@ -34,6 +34,9 @@ export default {
       newlist: []
     };
   },
+  computed: {
+    
+  },
   components: {
     Item
   },

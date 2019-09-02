@@ -8,6 +8,8 @@ Vue.config.productionTip = false
 
 Vue.prototype.$http = axios;
 
+// Vue.prototype.$bus = new Vue();
+
 // Vue.compoent('',);
 
 new Vue({

@@ -27,6 +27,9 @@ export default {
             console.log(this.$route);
         }
     },
+    created() {
+        console.log(this.item);
+    },
 }
 </script>
 
